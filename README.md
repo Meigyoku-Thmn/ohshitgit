@@ -1,3 +1,8 @@
+Đọc thử bản Tiếng Việt:
+- Bản chính: https://deploy-preview-103--ohshitgit.netlify.app/vi/swears/index.html
+- Bản bớt chửi thề: https://deploy-preview-103--ohshitgit.netlify.app/vi/noswears/index.html
+
+---
 # The official home of Oh Shit, Git!?!
 https://ohshitgit.com/
 (and the swear-free version at Dangit, Git!?!
